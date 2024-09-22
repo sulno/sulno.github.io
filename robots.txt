@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sulno.github.io/wjw/sitemap.wjw.gz
