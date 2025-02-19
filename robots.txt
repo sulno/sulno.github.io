@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sulno.csgad.com/taD/sitemap.xml.gz
